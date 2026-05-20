@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Spandana
 
-<!--
-**akhilavarada/akhilavarada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | Fresher
 
-Here are some ideas to get you started:
+Passionate Java Full Stack Developer with knowledge in Java, Spring Boot, HTML, CSS, JavaScript, React, and MySQL.  
+Interested in building responsive web applications and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- Java
+- Spring Boot
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- MySQL
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- REST APIs
+- Full Stack Projects
+- Data Structures & Algorithms
+
+---
+
+## 💻 Projects
+
+### Portfolio Website
+Personal portfolio website developed using HTML, CSS, and JavaScript.
+
+### Full Stack Web Application
+Developed responsive web applications using Java Full Stack technologies.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/spandana-kokkula-084a57281
+- GitHub: https://github.com/yourusername
+
+---
+
+## ✨ Career Objective
+
+Seeking an opportunity as a Java Full Stack Developer to apply my skills, gain real-world experience, and contribute to organizational growth.
