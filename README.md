@@ -1,4 +1,4 @@
-# Hi 👋, I'm Spandana
+# Hi 👋, I'm Akhila
 
 ### Java Full Stack Developer | Fresher
 
