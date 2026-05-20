@@ -2,8 +2,8 @@
 
 ### Java Full Stack Developer | Fresher
 
-Passionate Java Full Stack Developer with knowledge in Java, Spring Boot, HTML, CSS, JavaScript, React, and MySQL.  
-Interested in building responsive web applications and continuously learning new technologies.
+Aspiring Full Stack Developer skilled in Java, Spring Boot, React, and modern web technologies. Passionate about building responsive, user-friendly 
+applications and continuously improving my development skills.
 
 ---
 
@@ -25,27 +25,28 @@ Interested in building responsive web applications and continuously learning new
 - Advanced Java
 - REST APIs
 - Full Stack Projects
-- Data Structures & Algorithms
+- MongoDB
+- Database Management Systems
 
 ---
 
 ## 💻 Projects
 
-### Portfolio Website
-Personal portfolio website developed using HTML, CSS, and JavaScript.
+### Sentiment Analysis on Cryptocurrency Using YouTube Comments
+Sentiment analysis project developed using Python, Machine Learning, NLP, and YouTube comments data to analyze cryptocurrency trends.
 
-### Full Stack Web Application
-Developed responsive web applications using Java Full Stack technologies.
+### Smarter Banking Chatfin
+Smart banking chatbot application developed using Java, Spring Boot, and MySQL to assist users with banking services and queries.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/spandana-kokkula-084a57281
+- LinkedIn: www.linkedin.com/in/varada-akhila
 - GitHub: https://github.com/yourusername
 
 ---
 
 ## ✨ Career Objective
 
-Seeking an opportunity as a Java Full Stack Developer to apply my skills, gain real-world experience, and contribute to organizational growth.
+Aspiring Full Stack Developer passionate about building responsive web applications using Java, Spring Boot, React.js, and modern web technologies.
